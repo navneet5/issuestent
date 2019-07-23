@@ -1,0 +1,1 @@
+export { getLatestFirmwareVersion } from './getLatestFirmwareVersion'

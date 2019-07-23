@@ -1,0 +1,50 @@
+{
+  "name": "eosmetro",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@emotion/core": "^10.0.14",
+    "@emotion/styled": "^10.0.14",
+    "@types/lodash": "^4.14.136",
+    "emotion": "^10.0.14",
+    "eos-metro-api": "^1.0.17",
+    "eos-metro-transport-u2f": "^1.0.18",
+    "lodash": "^4.17.14",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "react-router-dom": "^5.0.1",
+    "react-scripts": "3.0.1",
+    "stent": "^6.0.1"
+  },
+  "devDependencies": {
+    "@types/jest": "24.0.13",
+    "@types/node": "12.0.8",
+    "@types/react": "16.8.19",
+    "@types/react-dom": "16.8.4",
+    "@types/react-router-dom": "^4.3.4",
+    "tslint": "^5.17.0",
+    "tslint-eslint-rules": "^5.4.0",
+    "typescript": "3.5.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
