@@ -9,7 +9,7 @@
     "emotion": "^10.0.14",
     "eos-metro-api": "^1.0.17",
     "eos-metro-transport-u2f": "^1.0.18",
-    "lodash": "^4.17.14",
+    "lodash": "^4.17.23",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-router-dom": "^5.0.1",
